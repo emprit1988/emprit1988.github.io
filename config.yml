@@ -1,0 +1,36 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Simple Site
+theme: PaperMod
+paginate: 5
+enableInlineShortcodes: true
+enableEmoji: true
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: contact
+          url: contact
+params:
+  homeInfoParams:
+    Title: Hi there I'm Prithviraj <code>:heart:</code>
+    Content: I'm a software engineer from India. I've specialized in developing highly scalable and high-performance systems.
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/prithivirajan-murthy-7ab77b72/
+    - name: twitter
+      url: https://twitter.com/prit4fun
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter"]

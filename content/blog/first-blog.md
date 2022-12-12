@@ -54,7 +54,7 @@ The blockquote element represents content that is quoted from another source, op
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## How to have a difficult AKA important conversation
-![difficult_convo](/archetypes/images/difficult_convo_2.png)
+![difficult_convo](/blog/images/difficult_convo_2.png)
 
 ## Tables
 

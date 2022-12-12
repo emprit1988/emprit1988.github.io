@@ -1,9 +1,9 @@
-baseURL: https://emprit.github.io
+baseURL: https://emprit1988.github.io
 languageCode: en-us
 title: A Simple Site
 theme: PaperMod
 paginate: 5
-publishDir: public
+publishDir: docs
 enableInlineShortcodes: true
 enableEmoji: true
 languages:
